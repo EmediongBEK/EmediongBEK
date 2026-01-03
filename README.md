@@ -19,7 +19,7 @@ Other Skills: Data Cleaning, Data Transformation, KPI Analysis, Dashboard Design
 ### Featured Projects  
 -  [Hospital Data Analysis (SQL & Tableau)]https://public.tableau.com/app/profile/emediong.kingsley/viz/HealthcareAnalysisProject_17616918096730/Well-springdashboard – Uncovered clinical and financial insights from hospital data to support decision-making.   
 - [Oil Rig Performance Dashboard (Power BI)] https://www.datascienceportfol.io/kingsleyBlessing/projects/1– Appended and transformed datasets to visualize performance efficiency and maintenance patterns.  
-- [Sleep Health and Lifestyle Analysis (Excel)] – Explored how stress, BMI, and activity levels affect sleep quality and disorder prevalence.  
+- [Sleep Health and Lifestyle Analysis (Power BI)] – Explored how stress, BMI, and activity levels affect sleep quality and disorder prevalence.  
 
 
 ### How to Reach Me  
